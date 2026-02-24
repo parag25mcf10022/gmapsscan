@@ -1,0 +1,14 @@
+# Sensitive Reports
+gmap_report.html
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+venv/
+
+# OS files
+.DS_Store
