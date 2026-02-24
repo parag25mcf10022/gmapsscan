@@ -22,7 +22,7 @@
 ### 📥 Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/parag25mcf10022/gmapsscan.git](https://github.com/parag25mcf10022/gmapsscan.git)
+git clone https://github.com/parag25mcf10022/gmapsscan
 cd gmapsscan
 
 # Install globally using pipx (Parrot/Kali/Ubuntu)
