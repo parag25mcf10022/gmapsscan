@@ -31,5 +31,5 @@ pipx install .
 # OR install via pip
 pip install .
 
-**RUN the Tool**
+## RUN the Tool
 gmapsscan
